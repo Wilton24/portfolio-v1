@@ -1,16 +1,16 @@
 function Navbar() {
     return (
         <nav className="navbar">
-            <h2>Prince.</h2>
+            <h2 className="logo">Wilton Gary Batiquin.</h2>
 
-            <ul>
+            <ul className="nav-links">
                 <li><a href="#about">About</a></li>
                 <li><a href="#projects">Work</a></li>
                 <li><a href="#experience">Experience</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </nav>
-    );
+    )
 }
 
-export default Navbar;
+export default Navbar
