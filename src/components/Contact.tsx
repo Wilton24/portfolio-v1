@@ -8,15 +8,15 @@ function Contact() {
 
             <div className="contact-links">
 
-                <a href="mailto:your@email.com">
+                <a href="mailto:cbasher24@gmail.com">
                     Email
                 </a>
 
-                <a href="https://github.com/yourusername">
+                <a href="https://github.com/Wilton24">
                     GitHub
                 </a>
 
-                <a href="https://linkedin.com">
+                <a href="https://www.linkedin.com/in/wilton-gary-batiquin-4bb492153">
                     LinkedIn
                 </a>
 
